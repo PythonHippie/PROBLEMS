@@ -1,0 +1,27 @@
+# problem statement: sonarqube coverage report
+  status:
+  sources:
+  progress:
+# problem statement: bitbucket server upgrade for new features ( like pull request template )
+  status:
+  sources:
+  progress:
+# problem statement: build-metrics-plugin and Build Failure Analyzer
+  status: not implemented yet
+  sources: 
+  1)https://wiki.jenkins.io/display/JENKINS/Build+Failure+Analyzer
+  2)https://wiki.jenkins.io/display/JENKINS/build-metrics-plugin
+  3)https://wiki.jenkins.io/display/JENKINS/View+Job+Filters  ( regular expressions to search for a job name )
+  progress: non
+# problem statement: 
+  status:
+  sources:
+  progress:
+# problem statement: 
+  status:
+  sources:
+  progress:
+# problem statement:
+  status:
+  sources:
+  progress:
