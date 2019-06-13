@@ -9,7 +9,7 @@
 # problem statement: build-metrics-plugin and Build Failure Analyzer
   status: not implemented yet
   sources: 
-  1)https://wiki.jenkins.io/display/JENKINS/Build+Failure+Analyzer
+  1)https://wiki.jenkins.io/display/JENKINS/Build+Failure+Analyzer ( knowledge base of build failure causes )
   2)https://wiki.jenkins.io/display/JENKINS/build-metrics-plugin
   3)https://wiki.jenkins.io/display/JENKINS/View+Job+Filters  ( regular expressions to search for a job name )
   progress: non
