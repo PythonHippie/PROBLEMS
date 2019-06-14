@@ -13,7 +13,7 @@
   2)https://wiki.jenkins.io/display/JENKINS/build-metrics-plugin
   3)https://wiki.jenkins.io/display/JENKINS/View+Job+Filters  ( regular expressions to search for a job name )
   progress: non
-# problem statement: 
+# problem statement: jira plugin installation for https://odi-jenkins-artifactory.internal.ondotsystems.com/jenkins/
   status:
   sources:
   progress:
